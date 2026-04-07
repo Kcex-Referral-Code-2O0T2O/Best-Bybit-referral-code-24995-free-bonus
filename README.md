@@ -1,6 +1,6 @@
 # Bybit Referral Code 24995: Globally Active (2026)
 
-Welcome to the definitive integration guide for the **Bybit Referral Code 24995**. This repository serves as a technical resource for new traders looking to maximize their starting equity on the Bybit exchange. 
+Welcome to the definitive integration guide for the **[Bybit Referral Code]([url](https://www.bybit.com/en/sign-up?affiliate_id=24995)) 24995**. This repository serves as a technical resource for new traders looking to maximize their starting equity on the Bybit exchange. 
 
 By using the verified partner code **24995**, users activate a premium account status that includes a **50% trading fee discount** and access to the **$30,000 USDT Rewards Hub**.
 
